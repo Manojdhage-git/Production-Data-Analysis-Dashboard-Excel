@@ -271,6 +271,3 @@ Production_Data_Analysis.xlsx
 ```
 
 
-## 📃 License
-
-This project is open for educational and non-commercial use. Feel free to fork, modify, and build upon it.
